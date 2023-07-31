@@ -1,0 +1,50 @@
+.block1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    box-shadow: 0 0 100px  blue;
+}
+.block2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 600px;
+    margin-top: -200px;
+
+    box-shadow: 60px 3px 100px  blue;
+}
+.block3{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 1000px;
+    margin-top: -200px;
+    box-shadow: 40px 40px 40px blue;
+}
+.block4{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    box-shadow: 0 0 80px  blue inset;
+}
+.block5{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 600px;
+    margin-top: -200px;
+
+    box-shadow: 60px 3px 100px  blue inset;
+}
+.block6{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 1000px;
+    margin-top: -200px;
+    box-shadow: 40px 40px 40px blue inset;
+}

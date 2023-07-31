@@ -1,0 +1,110 @@
+.wrap{
+    float: left;
+}
+.example1{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.example2{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 50px;
+    box-shadow: 10px 10px 5px rgba(80,80,80,0.8);
+}
+.example3{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 50px;
+    box-shadow: 20px 20px 5px rgba(80,80,80,0.8);
+}
+.example4{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 50px;
+    box-shadow: 20px 20px 20px rgba(80,80,80,0.8);
+}
+.wrap2{
+    float: left;
+}
+.example5{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    box-shadow: 25px 25px 0 rgba(80,80,80,0.1);
+    margin-left: -750px;
+    margin-top: 200px;
+}
+.example6{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    margin-left: -550px;
+    margin-top: -150px;
+    box-shadow: 20px 20px 5px rgba(80,80,80,0.4);
+}
+.example7{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+
+    box-shadow: 0 30px 5px rgba(80,80,80,1);
+    margin-left: -350px;
+    margin-top: -150px;
+}
+.example8{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    margin-left: -150px;
+    margin-top: -150px;
+    box-shadow: -10px -10px 5px rgba(80,80,80,0.8);
+}
+
